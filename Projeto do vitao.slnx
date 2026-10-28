@@ -1,0 +1,10 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Interface Professores/Interface Professores.vcxproj" Id="7a3e2c1b-4d5f-4a8b-9c0d-1e2f3a4b5c6d" />
+  <Project Path="Projeto do vitao/Projeto do vitao.pyproj" Type="888888a0-9f3d-457c-b088-3a5042f75d52" Id="5c13a55a-3d1d-42ad-963c-8bd5cdd88792">
+    <Build Project="false" />
+  </Project>
+</Solution>
